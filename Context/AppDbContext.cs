@@ -1,6 +1,7 @@
 ﻿using AlunosAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace AlunosAPI.Context
 {
     public class AppDbContext : DbContext
